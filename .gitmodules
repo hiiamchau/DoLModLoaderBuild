@@ -2,6 +2,3 @@
 	path = ModLoader
 	url = ../sugarcube-2-ModLoader.git
 	branch = master
-[submodule "DOL"]
-	path = DOL
-	url = https://gitgud.io/Sl/degrees-of-lewdity.git
